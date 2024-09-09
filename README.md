@@ -139,4 +139,4 @@ This project demonstrates successful BLE-based Wi-Fi provisioning using the ESP3
 
 ---
 
-Feel free to copy and paste this into your `README.md` file on GitHub. Let me know if there's anything else you need!
+
