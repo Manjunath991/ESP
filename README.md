@@ -1,4 +1,7 @@
 
+- **ESP32 Microcontroller**: Used for BLE provisioning and Wi-Fi connection.
+- **Smartphone**: For BLE connection using the ESP BLE Provisioning app.
+
 
 ---
 
@@ -15,9 +18,6 @@ This project involves implementing ESP BLE provisioning using the ESP-IDF framew
 ### Hardware and Software Setup
 
 **Hardware Used:**
-- **ESP32 Microcontroller**: Used for BLE provisioning and Wi-Fi connection.
-- **Smartphone**: For BLE connection using the ESP BLE Provisioning app.
-
 **Software Used:**
 - **ESP-IDF (Espressif IoT Development Framework)**: For writing and deploying the firmware.
 - **GitHub**: For version control and project submission.
@@ -129,7 +129,8 @@ This project involves implementing ESP BLE provisioning using the ESP-IDF framew
 
 **Wi-Fi Connection Status:**
 
-![Connection Status](Screenshot(31).png)
+![connection status](path/to/your/screenshot.png)
+
 
 
 ---
