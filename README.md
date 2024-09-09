@@ -129,7 +129,7 @@ This project involves implementing ESP BLE provisioning using the ESP-IDF framew
 
 **Wi-Fi Connection Status:**
 
-![Connection Status](Screenshot (31).png)
+![Connection Status](Screenshot(31).png)
 
 
 ---
