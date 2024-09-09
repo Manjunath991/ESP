@@ -124,6 +124,14 @@ This project involves implementing ESP BLE provisioning using the ESP-IDF framew
 ### Expected Results
 - The ESP32 should successfully connect to Wi-Fi after BLE provisioning.
 - Screenshots can demonstrate expected outputs.
+- ### Screenshots
+
+
+
+**Wi-Fi Connection Status:**
+
+![Connection Status](images/connection_status.png)
+
 
 ---
 
